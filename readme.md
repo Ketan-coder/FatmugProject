@@ -9,13 +9,13 @@ To run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/ketan-coder/Vendorms.git
+   git clone https://github.com/ketan-coder/Fatmug.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd Vendorms
+   cd Fatmug
    ```
 
 3. Create a virtual environment and activate it:
