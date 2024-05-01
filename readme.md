@@ -9,7 +9,7 @@ To run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/ketan-coder/Fatmug.git
+   git clone [https://github.com/ketan-coder/Fatmug.git](https://github.com/Ketan-coder/Fatmug.git)
    ```
 
 2. Navigate to the project directory:
